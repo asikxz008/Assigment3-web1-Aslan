@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Pine forest reflected in Kolsai Lake">
+  <defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#b5d7da"/><stop offset="1" stop-color="#e6eee0"/></linearGradient><linearGradient id="water" x2="0" y2="1"><stop stop-color="#5fa4a2"/><stop offset="1" stop-color="#245d68"/></linearGradient></defs>
+  <path fill="url(#sky)" d="M0 0h900v620H0z"/>
+  <path fill="#a3b9b6" d="m0 310 178-210 121 174L466 72l177 229 111-156 146 196v279H0z"/>
+  <path fill="#dce7db" d="m178 100 48 69-43-24-30 22zm288-28 57 75-51-23-31 24zm288 73 47 66-45-19-31 22z"/>
+  <path fill="#55817b" d="M0 321q199-94 376 2t346-17q100-63 178 16v298H0z"/>
+  <path fill="#2e655b" d="M0 397q152-59 280-12t287-7q166-64 333 16v226H0z"/>
+  <path fill="#1e524a" d="m79 416 24-117 28 117zm61-18 21-95 22 95zm71 20 26-128 29 128zm496 4 25-128 31 128zm54-27 20-94 23 94zm47 22 28-119 30 119z"/>
+  <path fill="url(#water)" d="M0 419q182-20 356 4t544-9v206H0z"/>
+  <path fill="none" stroke="#a6d5c8" stroke-width="7" opacity=".6" d="M20 480q147-20 292 0t279-1q157-24 286 2M40 552q183-20 335 5t291-4q120-23 201 3"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Mountains above Almaty">
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#b9dce2"/><stop offset="1" stop-color="#edf5e8"/></linearGradient>
+    <linearGradient id="lake" x2="0" y2="1"><stop stop-color="#77b9b5"/><stop offset="1" stop-color="#2c6678"/></linearGradient>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h900v620H0z"/>
+  <circle cx="710" cy="132" r="68" fill="#fff1c8"/>
+  <path fill="#a8bdc6" d="M0 347 185 106l141 190L478 76l186 241L782 166l118 144v310H0z"/>
+  <path fill="#edf3eb" d="m185 106 48 66-31-17-19 18-24-18zm293-30 57 74-31-19-27 24-28-23zm304 90 40 49-38-18-26 17z"/>
+  <path fill="#5f8a88" d="M0 366q122-96 242-26t229-9q115-88 231-3t198-2v294H0z"/>
+  <path fill="#3c736d" d="M0 430q190-69 332-13t288-22q130-48 280 35v190H0z"/>
+  <path fill="url(#lake)" d="M0 452q197 36 366 0t534 6v162H0z"/>
+  <path fill="none" stroke="#b6dbcf" stroke-width="8" opacity=".6" d="M31 508q134-27 261 4t263-5q141-35 310 10M50 567q155-22 277 8t289-2q135-22 237 4"/>
+  <path fill="#224d49" d="m74 438 23-93 22 93zm27-27 23-113 27 113zm658 16 24-105 28 105zm42 11 22-90 25 90z"/>
+</svg>

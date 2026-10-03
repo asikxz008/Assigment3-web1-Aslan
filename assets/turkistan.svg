@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Turkistan mausoleum with blue dome">
+  <defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#f2c5a1"/><stop offset="1" stop-color="#faead1"/></linearGradient></defs>
+  <path fill="url(#sky)" d="M0 0h900v620H0z"/>
+  <circle cx="720" cy="138" r="74" fill="#fff0ce"/>
+  <path fill="#d8a47d" d="M0 465q158-52 313-17t282 0q160-44 305 2v170H0z"/>
+  <path fill="#b8785c" d="M104 342h692v219H104z"/>
+  <path fill="#a46552" d="M157 293h586v268H157z"/>
+  <path fill="#3a8f90" d="M356 262a94 94 0 0 1 188 0v43H356z"/>
+  <path fill="#73b9b3" d="M382 245a68 68 0 0 1 136 0v25H382z"/>
+  <path fill="#274e5e" d="M445 125h10v52h-10z"/>
+  <path fill="#e1bd91" d="M304 312h292v249H304z"/>
+  <path fill="#b8785c" d="M365 561V434a85 85 0 0 1 170 0v127z"/>
+  <path fill="#284f5b" d="M391 561V441a59 59 0 0 1 118 0v120z"/>
+  <path fill="#6bb3ae" d="M158 293h146v27H158zm438 0h147v27H596zM179 354h105v12H179zm437 0h106v12H616z"/>
+  <path fill="#edcf9d" d="M206 401h49v82h-49zm440 0h49v82h-49z"/>
+  <path fill="#2b7277" d="M199 392h64v12h-64zm440 0h64v12h-64z"/>
+  <path fill="#d9a374" d="M0 553q263-25 450 7t450-2v62H0z"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Astana skyline and Bayterek tower">
+  <defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#e8bca8"/><stop offset="1" stop-color="#f8e9d3"/></linearGradient><linearGradient id="river" x2="0" y2="1"><stop stop-color="#7bb5b7"/><stop offset="1" stop-color="#467e92"/></linearGradient></defs>
+  <path fill="url(#sky)" d="M0 0h900v620H0z"/>
+  <circle cx="724" cy="129" r="64" fill="#ffecd0"/>
+  <path fill="#c9b5aa" d="M0 385h83V244h94v141h50V282h83v103h53V213h100v172h50V276h94v109h45V236h86v149h58V300h104v320H0z"/>
+  <path fill="#687d86" d="M0 420h136V306h65v114h62V342h70v78h62V294h63v126h93V320h69v100h70V338h77v82h133v200H0z"/>
+  <path fill="#f6deb0" d="M436 275h28l-5 160h-18z"/>
+  <path fill="#efcc84" d="M450 201c45 0 71 39 57 78h-114c-14-39 12-78 57-78z"/>
+  <path fill="#f8ebc7" d="M450 186c40 0 62 29 59 48-21-13-43-19-59-19s-38 6-59 19c-3-19 19-48 59-48z"/>
+  <path fill="#345e68" d="M0 444q223-22 430 11t470-10v175H0z"/>
+  <path fill="url(#river)" d="M0 483q237-23 446 26t454-16v127H0z"/>
+  <path fill="none" stroke="#cce3d9" stroke-width="7" opacity=".7" d="M40 547q208-20 398 23t420-12"/>
+</svg>

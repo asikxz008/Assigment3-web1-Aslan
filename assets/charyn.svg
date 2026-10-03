@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Red rock formations at Charyn Canyon">
+  <defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#b9d6d9"/><stop offset="1" stop-color="#f6dfbb"/></linearGradient></defs>
+  <path fill="url(#sky)" d="M0 0h900v620H0z"/>
+  <circle cx="716" cy="129" r="62" fill="#fff1d4"/>
+  <path fill="#d9976d" d="M0 278h92l32 35 28-58h98l23 63 29-29h113l23 88 46-48h138l33 57 24-85h136l20 58h65v261H0z"/>
+  <path fill="#b9684d" d="M0 384h82l30-101 41 75h66l38-96 28 137h105l41-113 26 104h92l37-79 25 76h105l39-104 25 115h96v222H0z"/>
+  <path fill="#8f4c3e" d="M0 492h122l27-99 31 71h102l33-92 39 108h130l33-100 30 89h119l30-105 47 128h157v128H0z"/>
+  <path fill="#e9b981" d="M0 547q146-12 279 27t278-12q153-36 343-6v64H0z"/>
+  <path fill="none" stroke="#f5d3a1" stroke-width="8" opacity=".65" d="M22 566q178 2 283 31t297-16q143-29 263-5"/>
+</svg>

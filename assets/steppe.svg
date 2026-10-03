@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="Open Kazakh steppe under a wide sky">
+  <defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#9fc9d2"/><stop offset="1" stop-color="#f7eac7"/></linearGradient></defs>
+  <path fill="url(#sky)" d="M0 0h900v620H0z"/>
+  <circle cx="685" cy="137" r="79" fill="#fff1c7"/>
+  <path fill="#acc4a2" d="M0 357q174-83 340-18t304 11q157-72 256-5v275H0z"/>
+  <path fill="#82a682" d="M0 428q200-70 373 1t349-12q91-36 178-13v216H0z"/>
+  <path fill="#5f8b6c" d="M0 504q156-43 312 7t302-16q136-59 286-11v136H0z"/>
+  <path fill="#ead4a3" d="M426 620q21-67 39-110t-7-88q75 49 87 109t65 89z"/>
+  <path fill="#3b6355" d="m94 478 13-45 11 45zm584-47 12-45 13 45zm134 60 12-40 12 40z"/>
+  <path fill="none" stroke="#b8c99b" stroke-width="6" opacity=".7" d="M29 545q115-17 203 11M640 555q102-23 222-9"/>
+</svg>
